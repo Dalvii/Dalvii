@@ -1,5 +1,7 @@
 ### 18yo front/back dev
 
-vanilla/vue/express/svelte
+vanillaJS/vueJS/express/svelte
+nodeJS/py/java/c/sql/mongo
+linux/bash/apache/nginx
 
-founder of estudium.net
+founder of estudium.net, visioligne.com
