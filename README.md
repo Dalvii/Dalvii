@@ -1,5 +1,5 @@
 # 👋 Bonjour
-- Je suis Théo Vidal, étudiant informatique (2e année) à Nice, CTO en alternance à [Ubikvision.com](https://ubikvision.com) et développeur freelance
+- Je suis Théo Vidal, étudiant informatique (2e année) à Nice, CTO en alternance à [Ubikvision.com](https://ubikvision.com) et développeur [freelance](https://theo-vidal.fr)
 - Je suis passionné d'informatique, je réalise des projets variés depuis plusieurs années
 
 ## 🦾 Mes principaux projets 
@@ -21,3 +21,4 @@
 
 ## 📫 Contactez moi
 - contact@theo-vidal.fr
+- Portfolio : [vkt.fr](https://vkt.fr)
