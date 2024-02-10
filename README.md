@@ -8,7 +8,7 @@
 - [Estudium.net](https://estudium.com) : L'application qui a sauvé mon lycée du confinement! Cet outil scolaire révolutionne les échanges entre professeurs et élèves, permettant de gérer facilement les cours, devoirs, notes, absences...
 - [Discord Companion](https://github.com/Dalvii/discord-companion) : Une version miniature de Discord, toujours dans un coin de votre écran!
 
-## Quelques projets externes
+## ✨ Quelques projets externes
 - [clicartphoto.com](https://clicartphoto.com/) : Conception du site internet vitrine de promotion
 - [christian-guth.com](https://christian-guth.web.app/) : Conception du site internet vitrine de promotion (feature THREE.js)
 
