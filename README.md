@@ -1,28 +1,57 @@
-# 👋 Bonjour
-- Je suis Théo Vidal, étudiant ingénieur informatique (1e année) à Polytech Nice Sophia, en alternance chez [Hivenet](https://hivenet.com) et développeur [freelance](https://theo-vidal.fr)
-- Je suis passionné d'informatique, je réalise des projets variés depuis plusieurs années
+# Théo Vidal
 
-## 🦾 Mes principaux projets
+**Engineer · Designer · Entrepreneur**
 
-- [Visioligne.com](https://visioligne.com) : La visioconférence que n'importe qui peut intégrer sur son propre site web facilement et gratuitement
-- [Estudium.net](https://estudium.com) : L'application qui a sauvé mon lycée du confinement! Cet outil scolaire révolutionne les échanges entre professeurs et élèves, permettant de gérer facilement les cours, devoirs, notes, absences...
-- [Discord Companion](https://github.com/Dalvii/discord-companion) : Une version miniature de Discord, toujours dans un coin de votre écran!
+I build products that connect people, simplify complexity, and make technology feel human.  
+I’m the founder of [Studio Fleuve](https://studiofleuve.com) - a small, independent studio crafting digital products that combine design, technology, and story.
 
-## ✨ Quelques projets externes
-- [clicartphoto.com](https://clicartphoto.com/) : Conception du site internet vitrine de promotion
-- [christian-guth.com](https://christian-guth.web.app/) : Conception du site internet vitrine de promotion (feature THREE.js)
+---
 
-## 🧠 Je maîtrise
+## What I do
 
-- Front-end : HTML/CSS, JS/TS, VueJS/Nuxt, React, Svelte, Electron
-- Back-end : NodeJS, AdonisJS, Express, Nginx, Apache, Linux
-- Database : SQL, Firebase, MongoDB
-- API: GraphQL, Socket.io, WebRTC, Stripe
-- Software : VSCode, Git, Figma, Notion, Office, Sony VEGAS
+- **Product Development** - from idea to shipped product: design, build, deploy.  
+- **Frontend & Mobile** - React, Next.js, TypeScript, React Native, Expo.  
+- **Backend** - AdonisJS, Node, Prisma, PostgreSQL, Stripe, Docker.  
+- **Design** - UI/UX systems, clean interfaces, brand identities.  
+- **AI & Automation** - OpenAI APIs, RAGs, n8n workflows.  
 
-## 📚 En train d'apprendre
-- Rust, Next.js
+---
 
-## 📫 Contactez moi
-- contact@theo-vidal.fr
-- Portfolio : [theo-vidal.fr](https://theo-vidal.fr)
+## Selected Projects
+
+### [**LiveMate**](https://livemate.app/?utm_source=github)
+A social app that connects people going to the same concerts and festivals.  
+Built with React Native and Next.js, it integrates Spotify, ticketing, and eco-friendly ridesharing.  
+The project includes a matchmaking system, in-app chat, and a dashboard for organizers to engage their audience.
+
+### [**GardenTicket**](https://studiofleuve.com/gardenticket/)
+A ticketing platform that lets visitors book access to Europe’s most remarkable gardens.  
+Built with AdonisJS, Stripe, and a mobile app for both visitors and garden managers.
+
+### [**mc-web-voicechat**](https://github.com/Dalvii/mc-webcamhead/)
+A multiplayer Minecraft **mod** that adds real-time voice chat using your webcam and microphone.  
+Players can literally *see and hear* each other’s faces mapped to their in-game skins, powered by WebRTC and Fabric.  
+Fun, experimental, and slightly chaotic, just how side projects should be.
+
+---
+
+## Currently
+
+- Building products at **Studio Fleuve**  
+- Front-end engineer apprentice at **Hive Computing Services**  
+- Final-year engineering student at **Polytech Nice Sophia**
+
+---
+
+## I care about
+
+Design that speaks clearly.  
+Technology that empowers, not overwhelms.  
+Sustainability, curiosity, and building things that last.
+
+---
+
+## Contact
+
+- [LinkedIn](https://www.linkedin.com/in/theo-vidal/)
+- hello@studiofleuve.com
